@@ -1,0 +1,14 @@
+{
+  "name": "tjdft-public",
+  "homepage": "https://github.com/regisnew/tjdft-public",
+  "authors": [
+    "Rodrigo Régis Palmeira <regisbsb@gmail.com>"
+  ],
+  "description": "Arquivos publicos de projetos angular",
+  "main": "",
+  "keywords": [
+    "tjdft",
+    "pje"
+  ],
+  "license": "unlicensed"
+}
