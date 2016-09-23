@@ -1,0 +1,35 @@
+{
+  "name": "tjdft-public",
+  "version": "2.0.0",
+  "description": "Arquivos publicos de projetos angular",
+  "main": "Gruntfile.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regisnew/tjdft-public.git"
+  },
+  "keywords": [
+    "tjdft",
+    "pje"
+  ],
+  "authors": [
+    "Rodrigo Régis Palmeira <regisbsb@gmail.com>",
+    "Isaac Ismael da Silva Santos <isaacissantos@hotmail.com>"
+  ],
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/regisnew/tjdft-public/issues"
+  },
+  "homepage": "https://github.com/regisnew/tjdft-public#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^1.0.2"
+  }
+}
