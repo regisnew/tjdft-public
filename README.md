@@ -2,9 +2,9 @@ tjdft-public
 ============
 
 ### Links
-- [O que é](#o-que-e)
-- [Instalação](#instalacao)
-    - [Bower](#instalacao-com-bower)
+- [O que é](#o-que-é)
+- [Instalação](#instalação)
+    - [Bower](#instalação-com-bower)
 - [Como utilizar](#como-utilizar)
 
 # O que é
