@@ -23,3 +23,5 @@ $ bower install tjdft-public
 # Como utilizar
 
 Para utilizar, basta, em sua página HTML, apontar para o arquivo localizado em **dist/css/main.min.css**
+
+*(Veja o arquivo [exemplo.html](examples/example.html))*
