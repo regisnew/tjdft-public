@@ -6,7 +6,8 @@ tjdft-public
 - [Instalação](#instalação)
     - [Bower](#instalação-com-bower)
 - [Como utilizar](#como-utilizar)
-
+- [Contribuindo com o projeto](#contribuindo-com-o-projeto)
+    - [Inserindo novos ícones](#inserindo-novos-ícones)
 # O que é
 
 **tjdft-public** é um repositório que disponibiliza ícones vetorizados escaláveis prontos para serem chamados em uma página HTML.
@@ -25,3 +26,15 @@ $ bower install tjdft-public
 Para utilizar, basta, em sua página HTML, apontar para o arquivo localizado em **dist/css/main.min.css**
 
 *(Veja o arquivo [exemplo.html](examples/example.html))*
+
+
+# Contribuindo com o projeto
+
+#### Inserindo novos ícones
+
+Para adicionar novos ícones ao projeto:
+
+- Acesse o site do **[ICOMOON](https://icomoon.io/app)**
+- Importe todos os arquivos do diretório [svg](svg)
+- Adicione seu novo ícone
+- Gere as novas fontes / css
