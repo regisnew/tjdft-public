@@ -36,5 +36,5 @@ Para adicionar novos ícones ao projeto:
 
 - Acesse o site do **[ICOMOON](https://icomoon.io/app)**
 - Importe todos os arquivos do diretório [svg](svg)
-- Adicione seu novo ícone
+- Adicione seu novo ícone em formato vetorizado (svg) 
 - Gere as novas fontes / css
