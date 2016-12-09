@@ -1,16 +1,15 @@
 @font-face {
     font-family: 'icomoon';
-    src:  url('../fonts//ico-tjdft.eot?9slx85');
-    src:  url('../fonts//ico-tjdft.eot?9slx85#iefix') format('embedded-opentype'),
-    url('../fonts//ico-tjdft.ttf?9slx85') format('truetype'),
-    url('../fonts//ico-tjdft.woff?9slx85') format('woff'),
-    url('../fonts//ico-tjdft.svg?9slx85#icomoon') format('svg');
+    src:  url('../fonts//ico-tjdft.eot?bha9tu');
+    src:  url('../fonts//ico-tjdft.eot?bha9tu#iefix') format('embedded-opentype'),
+    url('../fonts//ico-tjdft.ttf?bha9tu') format('truetype'),
+    url('../fonts//ico-tjdft.woff?bha9tu') format('woff'),
+    url('../fonts//ico-tjdft.svg?bha9tu#icomoon') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 
 [class^="icon-"], [class*=" icon-"] {
-    /* use !important to prevent issues with browser extensions that change fonts */
     font-family: 'icomoon' !important;
     speak: none;
     font-style: normal;
@@ -19,20 +18,28 @@
     text-transform: none;
     line-height: 1;
 
-    /* Better Font Rendering =========== */
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-handshake:before {
+.icon-brasao-republica-brasil:before {
     content: "\e900";
 }
-.icon-pje:before {
+.icon-handshake:before {
     content: "\e901";
 }
-.icon-tjdft:before {
+.icon-pje:before {
     content: "\e902";
 }
-.icon-tjdft-box:before {
+.icon-tjdft:before {
     content: "\e903";
+}
+.icon-tjdft-box:before {
+    content: "\e904";
+}
+.icon-profile:before {
+    content: "\e99a";
+}
+.icon-user-tie:before {
+    content: "\e99b";
 }
