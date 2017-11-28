@@ -4,6 +4,7 @@ tjdft-public
 ### Links
 - [O que é](#o-que-é)
 - [Instalação](#instalação)
+    - [NPM](#instalação-com-npm)
     - [Bower](#instalação-com-bower)
 - [Como utilizar](#como-utilizar)
 - [Contribuindo com o projeto](#contribuindo-com-o-projeto)
@@ -15,6 +16,11 @@ tjdft-public
 Os ícones podem ser personalizados. Cores, tamanho, sombreamento podem ser alterados por meio de CSS.
 
 # Instalação
+
+#### Instalação com NPM
+```sh
+$ npm install tjdft-public
+```
 
 #### Instalação com Bower
 ```sh
