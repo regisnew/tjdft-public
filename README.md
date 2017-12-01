@@ -17,7 +17,7 @@ Os ícones podem ser personalizados. Cores, tamanho, sombreamento podem ser alte
 
 # Instalação
 
-#### Instalação com NPM
+#### Instala&ccedil;&atilde;o com NPM
 ```sh
 $ npm install tjdft-public
 ```
@@ -41,6 +41,12 @@ Para utilizar, basta, em sua página HTML, apontar para o arquivo localizado em 
 Para adicionar novos ícones ao projeto:
 
 - Acesse o site do **[ICOMOON](https://icomoon.io/app)**
-- Importe todos os arquivos do diretório [svg](svg)
 - Adicione seu novo ícone em formato vetorizado (svg) 
+- Importe todos os arquivos do diretório [svg](svg)
+- Adicione os ícones:
+    - Set: IcoMoon - Free 
+        - user-tie
+    - Set: Hawcons
+        - document-edit
+        - document-edit2
 - Gere as novas fontes / css
