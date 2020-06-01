@@ -1,6 +1,6 @@
 {
   "name": "tjdft-public",
-  "version": "3.1.5",
+  "version": "3.1.6",
   "description": "Arquivos publicos de projetos angular",
   "main": "Gruntfile.js",
   "directories": {
